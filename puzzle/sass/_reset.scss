@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+.header {
+  &__rectangle {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+  }
+}
+.main {
+  margin-top: 0;
+  margin-bottom: 0;
+  &__wrap {
+    margin: 0;
+  }
+}
